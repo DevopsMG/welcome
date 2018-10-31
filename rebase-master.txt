@@ -1,2 +1,2 @@
-hello from rebase
-test merge
+Hello from rebase
+tst merge
